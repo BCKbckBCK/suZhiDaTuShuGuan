@@ -1,0 +1,14 @@
+/* 全局样式表 */
+
+.el-table {
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}
+
+.ql-editor{
+  min-height:150px;
+}
